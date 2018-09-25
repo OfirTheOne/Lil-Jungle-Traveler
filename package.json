@@ -1,0 +1,26 @@
+{
+  "name": "lil-jungle-traveler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development && webpack-dev-server --mode development",
+    "build": "webpack --mode production && webpack-dev-server --mode production"
+  },
+  "devDependencies": {
+    "expose-loader": "0.7.5",
+    "ts-loader": "4.4.2",
+    "typescript": "2.9.2",
+    "webpack": "4.15.0",
+    "webpack-cli": "3.0.8",
+    "webpack-dev-server": "3.1.4"
+  },
+  "dependencies": {
+    "@types/matter-js": "^0.10.1",
+    "matter-js": "^0.14.2",
+    "phaser": "3.10.1",
+    "phaser-matter-collision-plugin": "^0.10.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
