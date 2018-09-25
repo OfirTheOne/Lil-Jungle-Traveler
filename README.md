@@ -6,11 +6,12 @@
 
 
 ### About
-Single player, 2 Two levels game. 
-You playing as the lil phaser traveler dude running around the jungle, collecting coins and diamonds, avoiding the dangerous water.
+The game was written by me. <br>
+Single player, 2 Two levels game. <br>
+You playing as the lil phaser traveler dude running around the jungle, collecting shiny items like coins and diamonds, avoiding the dangerous water, as you trying to reach to the level finish point.
 
 ### Development
-The game was developed with Phaser3 Framework, and Matter-JS physics. 
+The game was developed with Phaser3 Framework, and Matter-JS physics. <br>
 All the levels environment and surrounding was configured using Tiled Map Editor software. 
 
 
