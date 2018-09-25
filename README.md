@@ -7,7 +7,7 @@
 
 ### About
 The game was written by me. <br>
-Single player, 2 Two levels game. <br>
+It's a single player, two levels game. <br>
 You playing as the lil phaser traveler dude running around the jungle, collecting shiny items like coins and diamonds, avoiding the dangerous water, as you trying to reach to the level finish point.
 
 ### Development
