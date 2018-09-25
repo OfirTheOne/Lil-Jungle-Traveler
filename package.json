@@ -1,5 +1,8 @@
 {
   "name": "lil-jungle-traveler",
+  "author": { 
+    "name" : "Genish Ofir"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -21,6 +24,5 @@
     "phaser": "3.10.1",
     "phaser-matter-collision-plugin": "^0.10.0"
   },
-  "author": "",
   "license": "ISC"
 }
